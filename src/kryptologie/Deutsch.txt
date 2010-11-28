@@ -1,0 +1,12 @@
+Es gibt zwei mögliche Verfahren,
+das Verhalten von Roboterschwärmen zu erforschen.
+ Zum einen werden virtuelle Welten erzeugt und das Verhalten eines Schwarms 
+auf Basis mathematischer Modelle im Rechner simuliert. Zum anderen werden 
+physische Roboter eingesetzt, die sich in einer realen Umgebung zurechtfinden 
+müssen. Gerade in diesem Bereich wurden aufgrund der Miniaturisierung von 
+Sensorik, Aktorik und Steuerungseinheiten große Fortschritte gemacht. 
+Durch die Möglichkeit, preiswerte und miniaturisierte Roboterpopulationen zu 
+schaffen, entsteht ein großes Potenzial zur Entwicklung von mobilen 
+Roboterschwärmen, die in Größe und Intelligenz skalierbar sind. 
+
+
